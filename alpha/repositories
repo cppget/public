@@ -1,0 +1,12 @@
+# cppget.org/alpha
+#
+: 1
+role: complement
+location: ../beta
+:
+url: http://cppget.org
+email: repoman@cppget.org
+summary: C++ package repository, alpha section
+description: \
+Complements the beta, testing, and stable sections.
+\

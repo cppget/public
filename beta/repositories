@@ -1,0 +1,12 @@
+# cppget.org/beta
+#
+: 1
+role: complement
+location: ../testing
+:
+url: http://cppget.org
+email: repoman@cppget.org
+summary: C++ package repository, beta section
+description: \
+Complements the testing and stable sections.
+\
