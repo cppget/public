@@ -5,4 +5,6 @@ url: http://cppget.org
 email: repoman@cppget.org
 summary: C++ package repository, legacy section
 description: \
+This section contains significantly older versions of packages that should no
+longer be used in current project but may still be used by some.
 \

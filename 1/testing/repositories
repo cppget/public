@@ -8,5 +8,9 @@ url: http://cppget.org
 email: repoman@cppget.org
 summary: C++ package repository, testing section
 description: \
+This section contains newly-released versions of packages that are being
+tested before being considered stable. After sufficient and successful testing,
+they are automatically migrated to the stable section.
+
 Complements the stable section.
 \

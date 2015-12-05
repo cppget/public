@@ -5,4 +5,8 @@ url: http://cppget.org
 email: repoman@cppget.org
 summary: C++ package repository, stable section
 description: \
+This section contains versions of packages that are considered to be stable.
+
+Significantly older versions of packages for which several newer version are
+available are automatically migrated to the legacy section.
 \

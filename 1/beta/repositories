@@ -8,5 +8,10 @@ url: http://cppget.org
 email: repoman@cppget.org
 summary: C++ package repository, beta section
 description: \
+This section contains beta versions of packages. Generally, no significant
+interface changes are expected in beta versions before the final release.
+Note that beta versions are never migrated to the testing section. Rather,
+the version must be released as final by the project for this to happen.
+
 Complements the testing and stable sections.
 \

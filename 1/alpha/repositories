@@ -8,5 +8,10 @@ url: http://cppget.org
 email: repoman@cppget.org
 summary: C++ package repository, alpha section
 description: \
+This section contains alpha versions of packages. Significant interface
+changes can occur between alpha releases. Note that alpha versions are never
+migrated to the beta section. Rather, the version must be released as a beta
+by the project for this to happen.
+
 Complements the beta, testing, and stable sections.
 \
