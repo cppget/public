@@ -9,8 +9,16 @@ email: repoman@cppget.org
 summary: C++ package repository, testing section
 description: \
 This section contains newly-released versions of packages that are being
-tested before being considered stable. After sufficient and successful testing,
-they are automatically migrated to the stable section.
+tested before being considered stable. Complements the stable section.
 
-Complements the stable section.
+REPOSITORY POLICIES
+
+After sufficient and successful testing, packages are automatically migrated
+to the stable section.
+
+Package Licenses: any license that is approved as "Open Source License" by the
+Open Source Initiative or as "Free Software License" (whether GPL-compatible
+or not) by the Free Software Foundation.
+
+Package Archives: .tar.gz
 \

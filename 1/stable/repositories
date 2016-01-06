@@ -7,6 +7,15 @@ summary: C++ package repository, stable section
 description: \
 This section contains versions of packages that are considered to be stable.
 
+REPOSITORY POLICIES
+
 Significantly older versions of packages for which several newer version are
-available are automatically migrated to the legacy section.
+available or those that are no longer actively maintained are automatically
+migrated to the legacy section.
+
+Package Licenses: any license that is approved as "Open Source License" by the
+Open Source Initiative or as "Free Software License" (whether GPL-compatible
+or not) by the Free Software Foundation.
+
+Package Archives: .tar.gz
 \

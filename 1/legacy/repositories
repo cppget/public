@@ -7,4 +7,15 @@ summary: C++ package repository, legacy section
 description: \
 This section contains significantly older versions of packages that should no
 longer be used in current project but may still be used by some.
+
+REPOSITORY POLICIES
+
+While packages are never removed from this section, there is no guarantee that
+they are still usable.
+
+Package Licenses: any license that is approved as "Open Source License" by the
+Open Source Initiative or as "Free Software License" (whether GPL-compatible
+or not) by the Free Software Foundation.
+
+Package Archives: .tar.gz
 \

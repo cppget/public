@@ -9,9 +9,19 @@ email: repoman@cppget.org
 summary: C++ package repository, alpha section
 description: \
 This section contains alpha versions of packages. Significant interface
-changes can occur between alpha releases. Note that alpha versions are never
-migrated to the beta section. Rather, the version must be released as a beta
-by the project for this to happen.
+changes can occur between alpha releases. Complements the beta, testing, and
+stable sections.
 
-Complements the beta, testing, and stable sections.
+REPOSITORY POLICIES
+
+Alpha versions are never migrated to the beta section. Rather, the version
+must be released as a beta by the project and submitted to beta. Once the
+final release becomes available in testing, all the alpha (and beta) versions
+for this release are automatically removed.
+
+Package Licenses: any license that is approved as "Open Source License" by the
+Open Source Initiative or as "Free Software License" (whether GPL-compatible
+or not) by the Free Software Foundation.
+
+Package Archives: .tar.gz
 \
