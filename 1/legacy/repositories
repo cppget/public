@@ -1,6 +1,9 @@
 # cppget.org/legacy
 #
 : 1
+role: prerequisite
+location: ../stable
+:
 url: ../.
 email: users@cppget.org
 summary: C++ package repository, legacy section
