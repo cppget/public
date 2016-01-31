@@ -4,7 +4,7 @@
 role: prerequisite
 location: ../stable
 :
-url: ../.
+url: .././..
 email: users@cppget.org
 summary: C++ package repository, legacy section
 description: \

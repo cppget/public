@@ -4,7 +4,7 @@
 role: complement
 location: ../beta
 :
-url: ../.
+url: .././..
 email: users@cppget.org
 summary: C++ package repository, alpha section
 description: \

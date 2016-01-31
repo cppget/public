@@ -1,7 +1,7 @@
 # cppget.org/stable
 #
 : 1
-url: ../.
+url: .././..
 email: users@cppget.org
 summary: C++ package repository, stable section
 description: \
