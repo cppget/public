@@ -4,13 +4,13 @@
 role: complement
 location: ../beta
 :
-url: http://cppget.org
-email: repoman@cppget.org
+url: ../.
+email: users@cppget.org
 summary: C++ package repository, alpha section
 description: \
 This section contains alpha versions of packages. Significant interface
-changes can occur between alpha releases. Complements the beta, testing, and
-stable sections.
+changes can occur between alpha releases. Complemented by the beta, testing,
+and stable sections.
 
 REPOSITORY POLICIES
 
@@ -22,6 +22,4 @@ for this release are automatically removed.
 Package Licenses: any license that is approved as "Open Source License" by the
 Open Source Initiative or as "Free Software License" (whether GPL-compatible
 or not) by the Free Software Foundation.
-
-Package Archives: .tar.gz
 \

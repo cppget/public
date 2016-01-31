@@ -1,8 +1,8 @@
 # cppget.org/stable
 #
 : 1
-url: http://cppget.org
-email: repoman@cppget.org
+url: ../.
+email: users@cppget.org
 summary: C++ package repository, stable section
 description: \
 This section contains versions of packages that are considered to be stable.
@@ -16,6 +16,4 @@ migrated to the legacy section.
 Package Licenses: any license that is approved as "Open Source License" by the
 Open Source Initiative or as "Free Software License" (whether GPL-compatible
 or not) by the Free Software Foundation.
-
-Package Archives: .tar.gz
 \
