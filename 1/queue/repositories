@@ -1,0 +1,22 @@
+# cppget.org/queue
+#
+: 1
+role: complement
+location: ../alpha
+:
+# @@ Cannot do relative URL. Perhaps need support for replacing domain, not
+#    just stripping it, e.g., ../queue/./..?
+#
+url: https://queue.cppget.org
+email: users@cppget.org
+summary: C++ package repository queue
+description: \
+This section contains packages that are being staged for preliminary testing
+before being moved to alpha (or rejected). Complemented by the alpha, beta,
+testing, and stable sections.
+
+REPOSITORY POLICIES
+
+This section is transient and volatile; packages can be added or removed at
+any time and no history of these changes is kept.
+\
