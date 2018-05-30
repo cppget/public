@@ -1,22 +1,23 @@
-# cppget.org/beta
+# cppget.org/alpha
 #
 : 1
 role: complement
-location: ../testing
+location: ../beta
+trust: 86:BA:D4:DE:2C:87:1A:EE:38:C7:F1:64:7F:65:77:02:15:79:F3:C4:83:C0:AB:5A:EA:F4:F7:8C:1D:63:30:C6
 :
 url: .././..
 email: users@cppget.org
-summary: C++ package repository, beta section
+summary: C++ package repository, alpha section
 description: \
-This section contains beta versions of packages. Generally, no significant
-interface changes are expected in beta versions before the final release.
-Complemented by the testing and stable sections.
+This section contains alpha versions of packages. Significant interface
+changes can occur between alpha releases. Complemented by the beta, testing,
+and stable sections.
 
 REPOSITORY POLICIES
 
-Beta versions are never migrated to the testing section. Rather, the version
-must be released as final by the project and submitted to testing. Once the
-final release becomes available in testing, all the beta (and alpha) versions
+Alpha versions are never migrated to the beta section. Rather, the version
+must be released as a beta by the project and submitted to beta. Once the
+final release becomes available in testing, all the alpha (and beta) versions
 for this release are automatically removed.
 
 Package Licenses: any license that is approved as "Open Source License" by the

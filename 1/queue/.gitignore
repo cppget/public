@@ -2,4 +2,4 @@
 #
 *
 !.gitignore
-!repositories
+!repositories.manifest

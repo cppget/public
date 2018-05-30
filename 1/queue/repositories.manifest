@@ -1,24 +1,25 @@
-# cppget.org/legacy
+# cppget.org/queue
 #
 : 1
-role: prerequisite
-location: ../stable
+role: complement
+location: ../alpha
+trust: 86:BA:D4:DE:2C:87:1A:EE:38:C7:F1:64:7F:65:77:02:15:79:F3:C4:83:C0:AB:5A:EA:F4:F7:8C:1D:63:30:C6
 :
-url: .././..
+# @@ Cannot do relative URL. Perhaps need support for replacing domain, not
+#    just stripping it, e.g., ../queue/./..?
+#
+url: https://queue.cppget.org
 email: users@cppget.org
-summary: C++ package repository, legacy section
+summary: C++ package repository queue
 description: \
-This section contains significantly older versions of packages that should no
-longer be used in current project but may still be used by some.
+This section contains packages that are being staged for preliminary testing
+before being moved to alpha (or rejected). Complemented by the alpha, beta,
+testing, and stable sections.
 
 REPOSITORY POLICIES
 
-While packages are never removed from this section, there is no guarantee that
-they are still usable.
-
-Package Licenses: any license that is approved as "Open Source License" by the
-Open Source Initiative or as "Free Software License" (whether GPL-compatible
-or not) by the Free Software Foundation.
+This section is transient and volatile; packages can be added or removed at
+any time and no history of these changes is kept.
 \
 certificate: \
 -----BEGIN CERTIFICATE-----
