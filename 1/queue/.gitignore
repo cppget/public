@@ -1,5 +1,0 @@
-# Ignore everything except specific files.
-#
-*
-!.gitignore
-!repositories.manifest
