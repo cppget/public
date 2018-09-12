@@ -1,0 +1,5 @@
+: 1
+name: libodb-oracle
+author-name: Code Synthesis
+author-email: odb-users@codesynthesis.com
+control: https://git.codesynthesis.com/odb/libodb-oracle.git

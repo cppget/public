@@ -1,0 +1,5 @@
+: 1
+name: libbpkg
+author-name: build2 Project
+author-email: users@build2.org
+control: https://git.build2.org/libbpkg.git
