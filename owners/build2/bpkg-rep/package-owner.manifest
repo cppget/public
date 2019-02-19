@@ -1,0 +1,5 @@
+: 1
+name: bpkg-rep
+author-name: build2 Project
+author-email: users@build2.org
+control: https://git.build2.org/bpkg-rep.git
