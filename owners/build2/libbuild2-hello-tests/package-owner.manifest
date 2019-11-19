@@ -1,0 +1,5 @@
+: 1
+name: libbuild2-hello-tests
+author-name: build2 Project
+author-email: users@build2.org
+control: https://github.com/build2/libbuild2-hello.git
