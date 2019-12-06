@@ -2,4 +2,4 @@
 name: libpq
 author-name: build2 Packaging
 author-email: packaging@build2.org
-control: https://git.build2.org/packaging/postgresql/libpq.git
+control: https://git.build2.org/packaging/postgresql/postgresql.git
