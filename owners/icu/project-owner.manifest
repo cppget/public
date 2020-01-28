@@ -1,0 +1,5 @@
+: 1
+name: icu
+author-name: build2 Packaging
+author-email: packaging@build2.org
+control: https://git.build2.org/packaging/icu/
