@@ -2,4 +2,4 @@
 name: libpkgconf
 author-name: build2 Packaging
 author-email: packaging@build2.org
-control: https://git.build2.org/packaging/pkgconf/libpkgconf.git
+control: https://git.build2.org/packaging/pkgconf/pkgconf.git
