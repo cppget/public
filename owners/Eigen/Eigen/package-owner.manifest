@@ -1,0 +1,5 @@
+: 1
+name: Eigen
+author-name: lyrahgames
+author-email: markus.pawellek@mailbox.org
+control: https://github.com/build2-packaging/Eigen.git
