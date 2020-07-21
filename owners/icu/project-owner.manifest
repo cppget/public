@@ -3,3 +3,4 @@ name: icu
 author-name: build2 Packaging
 author-email: packaging@build2.org
 control: https://git.build2.org/packaging/icu/
+control: https://git.build2.org/var/scm/packaging/icu/
