@@ -1,0 +1,6 @@
+: 1
+name: xerces-c
+author-name: build2 Packaging
+author-email: packaging@build2.org
+control: https://git.build2.org/packaging/xerces-c/
+control: https://git.build2.org/var/scm/packaging/xerces-c/
