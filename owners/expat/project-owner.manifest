@@ -1,0 +1,6 @@
+: 1
+name: expat
+author-name: build2 Packaging
+author-email: packaging@build2.org
+control: https://git.build2.org/packaging/expat/
+control: https://git.build2.org/var/scm/packaging/expat/
