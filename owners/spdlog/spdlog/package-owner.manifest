@@ -1,0 +1,5 @@
+: 1
+name: spdlog
+author-name: wmbat
+author-email: wmbat@protonmail.com
+control: https://github.com/build2-packaging/spdlog
