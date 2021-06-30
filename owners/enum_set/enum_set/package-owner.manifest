@@ -1,0 +1,5 @@
+: 1
+name: enum_set
+author-name: Carl Dehlin
+author-email: carl@dehlin.com
+control: https://github.com/cdeln/cpp_enum_set.git
