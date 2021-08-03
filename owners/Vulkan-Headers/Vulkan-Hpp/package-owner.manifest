@@ -1,0 +1,5 @@
+: 1
+name: Vulkan-Hpp
+author-name: wmbat
+author-email: wmbat@protonmail.com
+control: https://github.com/Wmbat/Vulkan-Headers.git
