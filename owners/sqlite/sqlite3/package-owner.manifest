@@ -3,3 +3,4 @@ name: sqlite3
 author-name: build2 Packaging
 author-email: packaging@build2.org
 control: https://git.build2.org/packaging/sqlite/sqlite.git
+control: https://git.build2.org/var/scm/packaging/sqlite/sqlite.git
