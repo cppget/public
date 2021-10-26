@@ -1,0 +1,5 @@
+: 1
+name: openbsd-m4
+author-name: Boris Kolpackov
+author-email: boris@codesynthesis.com
+control: https://github.com/build2-packaging/
