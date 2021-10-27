@@ -1,0 +1,5 @@
+: 1
+name: libxsd-frontend
+author-name: Boris Kolpackov
+author-email: boris@codesynthesis.com
+control: https://scm.codesynthesis.com/var/scm/libxsd-frontend/
