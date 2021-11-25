@@ -8,7 +8,7 @@ trust: 70:64:FE:E4:E0:F3:60:F1:B4:51:E1:FA:12:5C:E0:B3:DB:DF:96:33:39:B9:2E:E5:C
 url: .././..
 email: users@cppget.org
 summary: C++ package repository, testing section
-description: \
+description:\
 This section contains newly-released versions of packages that are being
 tested before being considered stable. Complemented by the stable section.
 
@@ -21,7 +21,7 @@ Package Licenses: any license that is approved as "Open Source License" by the
 Open Source Initiative or as "Free Software License" (whether GPL-compatible
 or not) by the Free Software Foundation.
 \
-certificate: \
+certificate:\
 -----BEGIN CERTIFICATE-----
 MIIDNDCCAhygAwIBAgIJAMNKgtsDBC20MA0GCSqGSIb3DQEBCwUAMDUxFzAVBgNV
 BAoMDkNvZGUgU3ludGhlc2lzMRowGAYDVQQDDBFuYW1lOioqY3BwZ2V0Lm9yZzAe
