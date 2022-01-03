@@ -1,0 +1,5 @@
+: 1
+name: glbinding
+author-name: lyrahgames
+author-email: lyrahgames@mailbox.org
+control: https://github.com/build2-packaging/glbinding.git
