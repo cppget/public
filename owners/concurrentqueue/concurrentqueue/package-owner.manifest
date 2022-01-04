@@ -1,0 +1,6 @@
+: 1
+name: concurrentqueue
+author-name: Zach Hilman
+author-email: me@zachhilman.net
+control: https://github.com/Ultramarine-Holdings-LLC/build2-concurrentqueue.g\
+it
