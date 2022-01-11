@@ -1,0 +1,6 @@
+: 1
+name: redis-plus-plus
+author-name: Zach Hilman
+author-email: me@zachhilman.net
+control: https://github.com/Ultramarine-Holdings-LLC/build2-redis-plus-plus.g\
+it
