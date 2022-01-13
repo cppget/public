@@ -1,0 +1,5 @@
+: 1
+name: re2
+author-name: Zach Hilman
+author-email: me@zachhilman.net
+control: https://github.com/Ultramarine-Holdings-LLC/build2-re2.git
