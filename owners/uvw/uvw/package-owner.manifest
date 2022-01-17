@@ -2,4 +2,4 @@
 name: uvw
 author-name: Zach Hilman
 author-email: me@zachhilman.net
-control: https://github.com/Ultramarine-Holdings-LLC/build2-uvw.git
+control: https://github.com/build2-packaging/uvw.git
