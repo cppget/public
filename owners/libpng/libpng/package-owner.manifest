@@ -1,5 +1,5 @@
 : 1
 name: libpng
-author-name: b8u
-author-email: lily.coder@gmail.com
-control: https://github.com/b8u/libpng.git
+author-name: Francois Kritzinger
+author-email: francois@codesynthesis.com
+control: https://github.com/build2-packaging/libpng.git
