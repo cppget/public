@@ -1,0 +1,5 @@
+: 1
+name: tl-expected
+author-name: wmbat
+author-email: wmbat-dev@protonmail.com
+control: https://github.com/build2-packaging/tl
