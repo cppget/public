@@ -1,0 +1,5 @@
+: 1
+name: libpkg-config
+author-name: build2 Project
+author-email: users@build2.org
+control: https://github.com/build2/libpkg-config.git
