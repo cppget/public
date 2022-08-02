@@ -1,0 +1,5 @@
+: 1
+name: libxtl-tests
+author-name: Swat SomeBug
+author-email: swat.somebug@gmail.com
+control: https://github.com/build2-packaging/libxtl.git
