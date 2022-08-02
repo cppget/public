@@ -3,3 +3,4 @@ name: libxsd
 author-name: Boris Kolpackov
 author-email: boris@codesynthesis.com
 control: https://scm.codesynthesis.com/var/scm/xsd/xsd.git
+control: https://git.codesynthesis.com/var/scm/xsd/xsd.git
