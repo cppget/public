@@ -1,0 +1,5 @@
+: 1
+name: libxsimd-tests
+author-name: Swat SomeBug
+author-email: swat.somebug@gmail.com
+control: https://github.com/build2-packaging/libximd.git
