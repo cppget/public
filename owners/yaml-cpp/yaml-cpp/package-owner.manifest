@@ -1,0 +1,5 @@
+: 1
+name: yaml-cpp
+author-name: EmilRosenquist
+author-email: Emil.Rosenquist@gmail.com
+control: https://github.com/build2-packaging/yaml-cpp.git
