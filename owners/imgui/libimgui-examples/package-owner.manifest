@@ -1,0 +1,5 @@
+: 1
+name: libimgui-examples
+author-name: Fabian Meyer
+author-email: rookfighter@posteo.org
+control: https://github.com/build2-packaging/imgui.git
