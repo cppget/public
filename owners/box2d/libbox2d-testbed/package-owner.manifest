@@ -1,0 +1,5 @@
+: 1
+name: libbox2d-testbed
+author-name: Fabian Meyer
+author-email: rookfighter@posteo.org
+control: https://github.com/build2-packaging/box2d.git
