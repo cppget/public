@@ -1,0 +1,5 @@
+: 1
+name: libtomlplusplus-tests
+author-name: Fabian Meyer
+author-email: rookfighter@posteo.org
+control: https://github.com/build2-packaging/tomlplusplus.git
