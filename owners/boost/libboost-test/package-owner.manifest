@@ -1,0 +1,5 @@
+: 1
+name: libboost-test
+author-name: Francois Kritzinger
+author-email: francois@codesynthesis.com
+control: https://github.com/build2-packaging/boost.git
