@@ -3,3 +3,4 @@ name: cli
 author-name: Code Synthesis
 author-email: cli-users@codesynthesis.com
 control: https://git.codesynthesis.com/cli/cli.git
+control: https://git.codesynthesis.com/var/scm/cli/cli.git
