@@ -1,0 +1,5 @@
+: 1
+name: libQt6WidgetsTests
+author-name: Francois Kritzinger
+author-email: francois@codesynthesis.com
+control: https://github.com/build2-packaging/Qt6.git
