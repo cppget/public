@@ -1,0 +1,5 @@
+: 1
+name: tl-generator-tests
+author-name: Joël Lamotte (Klaim)
+author-email: mjklaim@gmail.com
+control: https://github.com/build2-packaging/tl.git
