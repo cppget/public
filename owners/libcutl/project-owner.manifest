@@ -2,4 +2,5 @@
 name: libcutl
 author-name: Code Synthesis
 author-email: libcutl-users@codesynthesis.com
-control: https://git.codesynthesis.com/libcutl/
+control: https://git.codesynthesis.com/var/scm/libcutl/
+control: https://scm.codesynthesis.com/var/scm/libcutl/
