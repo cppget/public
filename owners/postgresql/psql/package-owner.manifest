@@ -1,0 +1,5 @@
+: 1
+name: psql
+author-name: Karen Arutyunov
+author-email: karen@codesynthesis.com
+control: https://git.build2.org/var/scm/packaging/postgresql/postgresql.git
