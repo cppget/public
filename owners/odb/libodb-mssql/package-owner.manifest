@@ -2,4 +2,5 @@
 name: libodb-mssql
 author-name: Code Synthesis
 author-email: odb-users@codesynthesis.com
-control: https://git.codesynthesis.com/odb/libodb-mssql.git
+control: https://git.codesynthesis.com/odb/odb.git
+control: https://git.codesynthesis.com/var/scm/odb/odb.git

@@ -3,3 +3,4 @@ name: odb
 author-name: Code Synthesis
 author-email: odb-users@codesynthesis.com
 control: https://git.codesynthesis.com/odb/
+control: https://git.codesynthesis.com/var/scm/odb/
