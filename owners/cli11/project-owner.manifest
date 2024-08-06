@@ -1,0 +1,5 @@
+: 1
+name: cli11
+author-name: Zach Hilman
+author-email: me@zachhilman.net
+control: https://github.com/build2-packaging/
