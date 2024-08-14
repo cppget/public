@@ -1,0 +1,5 @@
+: 1
+name: cglm
+author-name: duarm
+author-email: duarm0@disroot.org
+control: https://gitlab.com/duarm1/cglm-build2.git
