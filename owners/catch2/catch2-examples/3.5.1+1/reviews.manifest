@@ -1,0 +1,4 @@
+: 1
+reviewed-by: Boris Kolpackov <boris@codesynthesis.com>
+result-build: pass
+details-url: https://github.com/build2-packaging/catch2/issues/7
