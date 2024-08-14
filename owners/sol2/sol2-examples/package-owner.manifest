@@ -1,0 +1,5 @@
+: 1
+name: sol2-examples
+author-name: lyrahgames
+author-email: lyrahgames@mailbox.org
+control: https://github.com/build2-packaging/sol2.git
