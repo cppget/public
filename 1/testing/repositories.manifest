@@ -10,11 +10,12 @@ email: users@cppget.org
 summary: C++ package repository, testing section
 description:\
 This section contains newly-released versions of packages that are being
-tested before being considered stable. Complemented by the stable section.
+tested and reviewed before being considered stable. Complemented by the
+stable section.
 
 REPOSITORY POLICIES
 
-After sufficient and successful testing, packages are automatically migrated
+After sufficient testing and a successful review, packages are migrated
 to the stable section.
 
 Package Licenses: any license that is approved as "Open Source License" by the

@@ -18,7 +18,7 @@ REPOSITORY POLICIES
 Alpha versions are never migrated to the beta section. Rather, the version
 must be released as a beta by the project and submitted to beta. Once the
 final release becomes available in testing, all the alpha (and beta) versions
-for this release are automatically removed.
+for this release are removed.
 
 Package Licenses: any license that is approved as "Open Source License" by the
 Open Source Initiative or as "Free Software License" (whether GPL-compatible
