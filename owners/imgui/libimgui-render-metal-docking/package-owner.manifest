@@ -1,0 +1,5 @@
+: 1
+name: libimgui-render-metal-docking
+author-name: Klaim (Joël Lamotte)
+author-email: 142265+Klaim@users.noreply.github.com
+control: https://github.com/build2-packaging/imgui.git
