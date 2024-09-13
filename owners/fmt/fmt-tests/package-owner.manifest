@@ -1,0 +1,5 @@
+: 1
+name: fmt-tests
+author-name: Cameron Angus
+author-email: cjangus@gmail.com
+control: https://github.com/build2-packaging/fmt.git
