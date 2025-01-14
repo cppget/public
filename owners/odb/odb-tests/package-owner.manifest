@@ -1,0 +1,5 @@
+: 1
+name: odb-tests
+author-name: Boris Kolpackov
+author-email: boris@codesynthesis.com
+control: https://git.codesynthesis.com/var/scm/odb/odb.git
