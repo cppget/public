@@ -1,0 +1,6 @@
+: 1
+name: xsde-tests
+author-name: Boris Kolpackov
+author-email: boris@codesynthesis.com
+control: https://scm.codesynthesis.com/var/scm/xsde/xsde.git
+control: https://git.codesynthesis.com/var/scm/xsde/xsde.git
