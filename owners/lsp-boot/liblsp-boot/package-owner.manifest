@@ -1,0 +1,5 @@
+: 1
+name: liblsp-boot
+author-name: Cameron Angus
+author-email: cjangus@gmail.com
+control: https://github.com/kamrann/lsp-boot.git
