@@ -1,0 +1,5 @@
+: 1
+name: libcudart
+author-name: helmesjo
+author-email: helmesjo@gmail.com
+control: https://github.com/build2-packaging/nvidia-cuda-toolkit
