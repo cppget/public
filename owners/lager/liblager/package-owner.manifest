@@ -1,0 +1,5 @@
+: 1
+name: liblager
+author-name: William Roy
+author-email: wroy@proton.me
+control: https://github.com/wroyca/lager.git
