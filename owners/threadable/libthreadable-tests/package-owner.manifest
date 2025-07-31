@@ -1,0 +1,5 @@
+: 1
+name: libthreadable-tests
+author-name: helmesjo
+author-email: helmesjo@gmail.com
+control: https://github.com/helmesjo/threadable.git
