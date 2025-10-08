@@ -1,0 +1,4 @@
+: 1
+reviewed-by: Markus Pawellek <markus.pawellek@mailbox.org>
+result-build: pass
+details-url: https://github.com/build2-packaging/immer/issues/1#issuecomment-3356800307
