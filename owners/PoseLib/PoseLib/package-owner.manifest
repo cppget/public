@@ -1,0 +1,5 @@
+: 1
+name: PoseLib
+author-name: Emil Rosenquist
+author-email: Emil.Rosenquist@qualisys.se
+control: https://github.com/build2-packaging/PoseLib.git
