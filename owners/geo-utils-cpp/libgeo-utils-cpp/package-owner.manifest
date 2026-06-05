@@ -1,0 +1,5 @@
+: 1
+name: libgeo-utils-cpp
+author-name: Aleksandr Kovalko
+author-email: gistrec@gmail.com
+control: https://github.com/gistrec/geo-utils-cpp.git
