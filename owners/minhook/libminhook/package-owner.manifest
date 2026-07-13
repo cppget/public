@@ -1,0 +1,5 @@
+: 1
+name: libminhook
+author-name: William Roy
+author-email: wroy@proton.me
+control: https://github.com/build2-packaging/minhook.git
