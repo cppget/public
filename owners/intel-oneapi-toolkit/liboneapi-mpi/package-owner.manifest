@@ -1,0 +1,5 @@
+: 1
+name: liboneapi-mpi
+author-name: helmesjo
+author-email: helmesjo@gmail.com
+control: https://github.com/build2-packaging/intel-oneapi-toolkit.git
