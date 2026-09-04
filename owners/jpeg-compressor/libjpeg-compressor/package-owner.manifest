@@ -1,0 +1,5 @@
+: 1
+name: libjpeg-compressor
+author-name: helmesjo
+author-email: helmesjo@gmail.com
+control: https://github.com/build2-packaging/jpeg-compressor.git
