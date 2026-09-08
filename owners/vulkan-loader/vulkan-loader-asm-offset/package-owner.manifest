@@ -1,0 +1,5 @@
+: 1
+name: vulkan-loader-asm-offset
+author-name: helmesjo
+author-email: helmesjo@gmail.com
+control: https://github.com/build2-packaging/Vulkan-Loader.git
