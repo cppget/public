@@ -1,0 +1,5 @@
+: 1
+name: libcmp-core
+author-name: helmesjo
+author-email: helmesjo@gmail.com
+control: https://github.com/build2-packaging/compressonator.git
