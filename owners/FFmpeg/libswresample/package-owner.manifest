@@ -2,4 +2,4 @@
 name: libswresample
 author-name: helmesjo
 author-email: helmesjo@gmail.com
-control: https://github.com/build2-packaging/ffmpeg
+control: https://github.com/build2-packaging/FFmpeg.git
