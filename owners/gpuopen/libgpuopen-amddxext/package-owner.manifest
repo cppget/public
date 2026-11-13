@@ -1,0 +1,5 @@
+: 1
+name: libgpuopen-amddxext
+author-name: helmesjo
+author-email: helmesjo@gmail.com
+control: https://github.com/build2-packaging/GPUOpen-gpu_performance_api.git
