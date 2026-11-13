@@ -1,0 +1,5 @@
+: 1
+name: libmicrosoft-pdb
+author-name: helmesjo
+author-email: helmesjo@gmail.com
+control: https://github.com/build2-packaging/microsoft-pdb.git
