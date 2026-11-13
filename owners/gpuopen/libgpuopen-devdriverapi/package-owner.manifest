@@ -1,0 +1,5 @@
+: 1
+name: libgpuopen-devdriverapi
+author-name: helmesjo
+author-email: helmesjo@gmail.com
+control: https://github.com/build2-packaging/GPUOpen-dev_driver_tools.git
