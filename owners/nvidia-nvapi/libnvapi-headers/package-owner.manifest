@@ -1,0 +1,5 @@
+: 1
+name: libnvapi-headers
+author-name: helmesjo
+author-email: helmesjo@gmail.com
+control: https://github.com/build2-packaging/nvidia-nvapi.git
