@@ -1,0 +1,5 @@
+: 1
+name: libmetrics-discovery-headers
+author-name: helmesjo
+author-email: helmesjo@gmail.com
+control: https://github.com/build2-packaging/intel-metrics-discovery.git
